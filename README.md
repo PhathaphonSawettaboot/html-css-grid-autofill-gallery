@@ -1,0 +1,2 @@
+# html-css-grid-autofill-gallery
+ This project is centered around building an image gallery using CSS Grid with a focus on the auto-fill property. The auto-fill feature allows the gallery to automatically adjust the number of columns based on the screen size, ensuring a responsive and fluid layout. This repository serves as a hands-on example to explore and understand the functionality of auto-fill in CSS Grid layouts.
